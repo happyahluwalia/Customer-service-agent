@@ -12,8 +12,6 @@ This application provides an intelligent customer service solution that:
 - Maintains conversation history for context
 - Provides a user-friendly interface built with Streamlit
 
-![System Architecture](diagram-placeholder.png)
-
 ## Features
 
 ### Core Capabilities
@@ -230,3 +228,8 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 - Qdrant for vector storage
 - Streamlit for the user interface
 - LangChain for the RAG framework
+
+## Screenshots
+<img width="1275" alt="image" src="https://github.com/user-attachments/assets/1b46a487-8ede-4e6e-9f24-f5ac361ee484" />
+<img width="906" alt="image" src="https://github.com/user-attachments/assets/5319ec9e-a2e5-44db-be7a-8d8cfd4c3cef" />
+
